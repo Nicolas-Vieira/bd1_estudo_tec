@@ -1,0 +1,17 @@
+[
+    {
+        "cpf": 123456,
+        "nome": "Nome 1",
+        "data_nascimento": "2023-08-18"
+    },
+    {
+        "cpf": 654321,
+        "nome": "Nome 2",
+        "data_nascimento": "1987-11-16"
+    },
+    {
+        "cpf": 159753,
+        "nome": "Nome 3",
+        "data_nascimento": "2014-08-30"
+    }
+]
